@@ -1,8 +1,9 @@
-ME433 Advanced Mechatronics HW1
+ME433 Advanced Mechatronics
 ---------------------------------
-  
+Assignment 1
 
-1. Circuit schematic and Circuit Wiring
+
+1. Circuit Wiring
 ---------------------------------
 
 
