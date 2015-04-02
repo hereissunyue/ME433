@@ -16,3 +16,6 @@ Assignment 1
 <img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW1/figure/3.png">
 
 
+3. Source Code
+---------------------------------
+ [Source Code in C](https://github.com/hereissunyue/ME433/blob/master/HW1/hw1.X/hw1.c)
