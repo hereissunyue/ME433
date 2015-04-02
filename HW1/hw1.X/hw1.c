@@ -106,7 +106,7 @@ int main(void)
     T1CONbits.TCKPS = 0b10;         // set prescaler to 16
 	T1CONbits.TGATE = 0;            // not gated input (the default)
 	T1CONbits.TCS = 0;              // PCBLK input (the default)
-    PR1 = 250;						// (PR1 + 1)* precaler1 = 40M/10K = 4000  with precaler1 = 16  PR1 = 250
+	PR1 = 250;						// (PR1 + 1)* precaler1 = 40M/10K = 4000  with precaler1 = 16  PR1 = 25
 	TMR1 = 0;                       // initialize count to 0
 	T1CONbits.ON = 1;               // turn on Timer1
     // Setting Interrupt for Timer 1
