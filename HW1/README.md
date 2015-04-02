@@ -10,9 +10,9 @@ Assignment 1
 
 2. Waveforms
 ---------------------------------
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW1/figure/2.jpg">
+<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW1/figure/2.png">
 
 
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW1/figure/3.jpg">
+<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW1/figure/3.png">
 
 
