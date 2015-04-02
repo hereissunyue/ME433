@@ -1,6 +1,15 @@
 ME433 Advanced Mechatronics
 ---------------------------------
+Assignment 1
 
-Go to the wiki! https://github.com/ndm736/ME433_2015/wiki
+1. Circuit schematic and Circuit Wiring
+---------------------------------
+
+
+
+2. Waveforms
+---------------------------------
+
+
 
 
