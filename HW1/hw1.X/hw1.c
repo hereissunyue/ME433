@@ -9,7 +9,6 @@
 #include<sys/attribs.h>             // __ISR macro
 
 
-//These are the available DEVCFG bits for the PIC32MX250F128B are listed in the documentation that comes with XC32, in microchip/xc32/v1.33/docs/config_docs/32mx250f128b.html
 // DEVCFG0
 #pragma config DEBUG = OFF // Background Debugger disabled
 #pragma config JTAGEN = OFF // no jtag
@@ -148,7 +147,4 @@ int readADC(void) {
     a = ADC1BUF0;
     return a;
 }
-
-
-
 
