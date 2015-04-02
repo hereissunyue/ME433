@@ -76,7 +76,7 @@ int main(void)
     // disable JTAG to be able to use TDI, TDO, TCK, TMS as digital
     DDPCONbits.JTAGEN = 0;
     
-        // set up USER pin as input Pin B13
+    // set up USER pin as input Pin B13
     ANSELBbits.ANSB13 = 0;  // disable the analog function
     TRISBbits.TRISB13 = 1;  // pin B13 input
 
@@ -103,12 +103,12 @@ int main(void)
     AD1CON1bits.ADON = 1;
     
     // Set up timer1 for ISR
-    T1CONbits.TCKPS = 0b10;         //             set prescaler to 16
-	T1CONbits.TGATE = 0;            //             not gated input (the default)
-	T1CONbits.TCS = 0;              //             PCBLK input (the default)
-    PR1 = 250;       // (PR1 + 1)* precaler1 = 40M/10K = 4000  with precaler1 = 16  PR1 = 250
-	TMR1 = 0;                       //             initialize count to 0
-	T1CONbits.ON = 1;               //             turn on Timer1
+    T1CONbits.TCKPS = 0b10;         // set prescaler to 16
+	T1CONbits.TGATE = 0;            // not gated input (the default)
+	T1CONbits.TCS = 0;              // PCBLK input (the default)
+    PR1 = 250;						// (PR1 + 1)* precaler1 = 40M/10K = 4000  with precaler1 = 16  PR1 = 250
+	TMR1 = 0;                       // initialize count to 0
+	T1CONbits.ON = 1;               // turn on Timer1
     // Setting Interrupt for Timer 1
 	IPC1bits.T1IP = 7;              // INT step 4: priority 7
 	IPC1bits.T1IS = 0;              //             subpriority 0
@@ -123,14 +123,16 @@ int main(void)
     {
         _CP0_SET_COUNT(0); // Reset the core counter
         while(_CP0_GET_COUNT() < 10000000) 
-       { if (PORTBbits.RB13 == 0){ break; } } // once the button is triggered the loop break
+		{ if (PORTBbits.RB13 == 0){ break; } } // once the button is triggered the loop break
         
         if (PORTBbits.RB13 == 1){ LATBINV = 0x0080; } // inverse the LED1
         else{ LATBbits.LATB7 = 1; } // turn on the LED1
     }
 }
 
-int readADC(void) {
+// ADC value reading
+int readADC(void) 
+{
     int elapsed = 0;
     int finishtime = 0;
     int sampletime = 20;
@@ -139,11 +141,9 @@ int readADC(void) {
     AD1CON1bits.SAMP = 1;
     elapsed = _CP0_GET_COUNT();
     finishtime = elapsed + sampletime;
-    while (_CP0_GET_COUNT() < finishtime) {
-    }
+    while (_CP0_GET_COUNT() < finishtime) {;}
     AD1CON1bits.SAMP = 0;
-    while (!AD1CON1bits.DONE) {
-    }
+	while (!AD1CON1bits.DONE) {;}
     a = ADC1BUF0;
     return a;
 }
