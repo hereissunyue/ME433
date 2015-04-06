@@ -1,0 +1,6 @@
+1. Device: PIC32MX250F128B  CHOICE==Package: DIL28-3
+2. Device: CRYSTAL  CHOICE==Package: interval = 0.1 inch  Diameter = 0.066  Drill = 0.02756
+3. Device: BUTTON  CHOICE==Package: interval = 0.2 inch  Diameter = 0.066  Drill = 0.02756
+4. Device: 0.1uF capacitor  CHOICE==Package: C025-025X050
+5. Device: Resistor CHOICE==Package:R-US_0207/10 (R-US_)  0207/10
+ 
