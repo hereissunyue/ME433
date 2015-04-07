@@ -19,4 +19,3 @@ gerber files are in the zip file [ME433_sunyue.zip] (https://github.com/hereissu
 3. Circuit PCB Board 3D View
 ---------------------------------
 <img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW2_HW3/Figure/3D%20View.GIF">
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW2_HW3/Figure/3D%20View%20Back.GIF">
