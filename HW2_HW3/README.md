@@ -2,8 +2,8 @@ ME433 Advanced Mechatronics
 ---------------------------------
 Assignment 2 and 3   
 
-.sch, .brd are in the folder [Circuit](https://github.com/hereissunyue/ME433/tree/master/HW2_HW3/Circuit)<br> 
-gerber files are in the zip file [ME433_sunyue.zip] (https://github.com/hereissunyue/ME433/raw/master/HW2_HW3/ME433_sunyue.zip)
+1.<b>.sch</b>, <b>.brd</b> are in the folder [Circuit](https://github.com/hereissunyue/ME433/tree/master/HW2_HW3/Circuit)<br> 
+2.gerber files are in the zip file [ME433_sunyue.zip] (https://github.com/hereissunyue/ME433/raw/master/HW2_HW3/ME433_sunyue.zip)
 
 
 1. Circuit Schematic
