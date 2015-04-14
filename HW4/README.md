@@ -1,9 +1,11 @@
 ME433 Advanced Mechatronics
 ---------------------------------
+<br> 
 Assignment 4  
+---------------------------------
 
-[Source Code and Library](https://github.com/hereissunyue/ME433/tree/master/HW2_HW3/Circuit)<br> 
-<b>Code for displaying message is in the i2c_display.c as following</b>
+[Source Code and Library](https://github.com/hereissunyue/ME433/tree/master/HW4/HW4.X)<br> 
+<b>Code for displaying message is in the i2c_display.c as following</b>  
 
 ```bash
 void display_message(char message[], char x0, char y0)
@@ -36,7 +38,10 @@ void display_message(char message[], char x0, char y0)
 
 1. Display "Hello world 1337!" starting at (28,32)
 ---------------------------------
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW2_HW3/Figure/schematic.GIF">
+<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW4/figure/IMAG1011.jpg">
+<br> 
+<b>I intentionally add a pixel (27,31) for location reference!</b>
+
 
 
 2. How many characters can be displayed on the screen at the same time?
