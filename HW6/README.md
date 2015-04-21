@@ -4,8 +4,8 @@ ME433 Advanced Mechatronics
 Assignment 6  
 ---------------------------------
 
-[LED Source Code](https://github.com/hereissunyue/ME433/tree/master/HW5/HW5.X)<br>
-[Mouse Source Code](https://github.com/hereissunyue/ME433/tree/master/HW5/HW5.X)<br>  
+[LED Source Code](https://github.com/hereissunyue/ME433/tree/master/HW6/blinky_leds)<br>
+[Mouse Source Code](https://github.com/hereissunyue/ME433/tree/master/HW6/usb_mouse)<br>  
 <br> 
 
 LED Blinking with Harmony
