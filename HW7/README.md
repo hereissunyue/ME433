@@ -4,8 +4,7 @@ ME433 Advanced Mechatronics
 Assignment 7
 ---------------------------------
 
-[Accelerometer Control Mouse Source Code](https://github.com/hereissunyue/ME433/tree/master/HW7/mouse_acc)<br>  
-<br> 
+[Accelerometer Control Mouse Source Code](https://github.com/hereissunyue/ME433/tree/master/HW7/mouse_acc)<br> 
 <b>After combining accelerometer, OLED screen and mouse function together, updating speed will be slower than working separately.</b>
 <br>
 
