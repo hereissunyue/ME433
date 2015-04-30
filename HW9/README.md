@@ -5,7 +5,7 @@ Assignment 9
 ---------------------------------
 
 [box DXF](https://github.com/hereissunyue/ME433/tree/master/HW9/box)<br>
-[wheel STL](https://github.com/hereissunyue/ME433/tree/master/HW9/wheel)<br>
+[wheel STL](https://github.com/hereissunyue/ME433/tree/master/HW9/wheel/wheel.STL)<br>
 <br>
 
 Box
