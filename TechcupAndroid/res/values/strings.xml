@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Techcup</string>
+    <string name="hello_world">Fuck U!</string>
+    <string name="action_settings">Settings</string>
+    <string name="StartStop">Start / Stop</string>
+    <string name="plus5">Front: 0 0 0 0 0 0 0</string>
+    <string name="plus0">  Now: 1 1 1 1 1</string>
+
+</resources>
