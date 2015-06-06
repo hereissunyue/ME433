@@ -19,6 +19,6 @@ Robot Design Assembly
 
 Robot Design Prototyping
 ---------------------------------
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW14/figure/2.JPG">
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW14/figure/3.JPG">
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW14/figure/4.JPG">
+<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW14/figure/2.jpg">
+<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW14/figure/3.jpg">
+<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW14/figure/4.jpg">
