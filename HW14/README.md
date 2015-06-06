@@ -4,12 +4,12 @@ ME433 Advanced Mechatronics
 Assignment 14
 ---------------------------------
 
-[Design of Wheel](https://github.com/hereissunyue/ME433/tree/master/HW9/box)<br>
-[Design of Base](https://github.com/hereissunyue/ME433/tree/master/HW9/wheel/wheel.STL)<br>
-[Design of Motor Cover](https://github.com/hereissunyue/ME433/tree/master/HW9/wheel/wheel.STL)<br>
-[Design of Omnidirectional Wheel](https://github.com/hereissunyue/ME433/tree/master/HW9/wheel/wheel.STL)<br>
-[Design of Phoneframe](https://github.com/hereissunyue/ME433/tree/master/HW9/wheel/wheel.STL)<br>
-[Design of Lighting Cage](https://github.com/hereissunyue/ME433/tree/master/HW9/wheel/wheel.STL)<br>
+[Design of Wheel](https://github.com/hereissunyue/ME433/tree/master/HW14/wheel)<br>
+[Design of Base](https://github.com/hereissunyue/ME433/tree/master/HW14/base)<br>
+[Design of Motor Cover](https://github.com/hereissunyue/ME433/tree/master/HW14/motorcover)<br>
+[Design of Omnidirectional Wheel](https://github.com/hereissunyue/ME433/tree/master/HW14/omniwheel)<br>
+[Design of Phoneframe](https://github.com/hereissunyue/ME433/tree/master/HW14/phoneframe)<br>
+[Design of Lighting Cage](https://github.com/hereissunyue/ME433/tree/master/HW14/phonecage)<br>
 <br>
 
 Robot Design Assembly
