@@ -4,9 +4,9 @@ ME433 Advanced Mechatronics
 Assignment 16
 ---------------------------------
 
-[Techcup Tracking Android Project on OpenCv](https://github.com/hereissunyue/ME433/tree/master/HW10/Helloworld)<br> 
-[Android Project from Matt Mongeon](https://github.com/hereissunyue/ME433/tree/master/HW10/Helloworld)<br>
-[PIC CDC serial communication code from Nick Marchuk](https://github.com/hereissunyue/ME433/tree/master/HW10/Helloworld)<br>  
+[Techcup Tracking Android Project on OpenCv](https://github.com/hereissunyue/ME433/tree/master/HW16/TechcupAndroid)<br> 
+[Android Project from Matt Mongeon](https://github.com/hereissunyue/ME433/tree/master/HW16/AndroidfromMatt)<br>
+[PIC CDC serial communication code from Nick Marchuk](https://github.com/hereissunyue/ME433/tree/master/HW16/PIC_CDC_Serial/src)<br>  
 <br> 
  
 <b>The Techcup Android Project is basded on OpenCv which could reasonably achieve black line detection function. The project is on eclipse and has big difficulty to merge CDC serial communication project on Android Studio. Finally I borrowed the Android Project from Matt Mongeon and successfully made it working with the CDC serial on PIC to control the motion of the robot.</b>
