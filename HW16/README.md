@@ -15,7 +15,8 @@ Assignment 16
 
 Screenshot of Techcup black detection App
 ---------------------------------
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW16/figure/1.png"><br>
+<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW16/figure/1.jpg">
+<br>
 
 Screenshot of Matt's black detection App
 ---------------------------------
